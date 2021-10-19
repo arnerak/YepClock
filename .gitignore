@@ -1,0 +1,15 @@
+.vs
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.cmake
+CMakeCache.txt
+
+CMakeFiles/
+MinSizeRel/
+RelWithDebInfo/
+[Rr]elease/
+[Dd]ebug/
+
+glfw/
